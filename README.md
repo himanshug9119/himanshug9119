@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">A passionate computer science engineering, pre-final year student of IIIT Vadodara.</h3>
 
-- 🔭 I’m currently working on **CodeWithConfidence01**
+- 🔭 I’m currently working on **getITdone** a one stop IT solution [https://work-get-it-done.github.io/Portfolio/index.html](https://work-get-it-done.github.io/Portfolio/index.html)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 💬 Ask me about **C/CPP, Python, Java, CP, DSA**
 
-- 💬 Ask me about **c/cpp, python, cp, DSA**
-
-- 📫 How to reach me **guptasitapur489@gmail.com**
+- 📫 How to reach me **work.himanshu489@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1K638CLclIX2-7_KNQYj0JCQGnzmXdiqE/view?usp=sharing](https://drive.google.com/file/d/1K638CLclIX2-7_KNQYj0JCQGnzmXdiqE/view?usp=sharing)
 
