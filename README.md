@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">A passionate computer science engineering, pre-final year student of IIIT Vadodara.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshug9119&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkatheriya" /></p>
 - 🔭 I’m currently working on **getITdone** a one stop IT solution [https://work-get-it-done.github.io/Portfolio/index.html](https://work-get-it-done.github.io/Portfolio/index.html)
 
 - 💬 Ask me about **C/CPP, Python, Java, CP, DSA**
@@ -40,3 +40,6 @@
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/himanshug9119/mern-estate" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshug9119&repo=mern-estate&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/himanshug9119/quickpoll" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshug9119&repo=quickpoll&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+![snake gif](https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake-dark.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFFFalign=center&lines=Thank+you+for+taking+the+time;to+visit+my+Git-Hub+profile.;Your+interest+is+truly;appreciated!.)](https://git.io/typing-svg)
