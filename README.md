@@ -1,45 +1,74 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">A passionate computer science engineering, pre-final year student of IIIT Vadodara.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshug9119&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkatheriya" /></p>
-- 🔭 I’m currently working on **getITdone** a one stop IT solution [https://work-get-it-done.github.io/Portfolio/index.html](https://work-get-it-done.github.io/Portfolio/index.html)
+<h3 align="center">Backend & Full-stack Developer | Final Year CSE Student @ IIIT Vadodara</h3>
 
-- 💬 Ask me about **C/CPP, Python, Java, CP, DSA**
-
-- 📫 How to reach me **work.himanshu489@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K638CLclIX2-7_KNQYj0JCQGnzmXdiqE/view?usp=sharing](https://drive.google.com/file/d/1K638CLclIX2-7_KNQYj0JCQGnzmXdiqE/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/himanshu_9119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshu_9119" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@himanshug9119" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@CodeWithConfidence01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himanshu gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://twitter.com/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshug9119" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshug9119&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 💼 About Me
 
-<b>My GitHub Stats</b>
+- 🎓 Final year B.Tech student at **IIIT Vadodara**, majoring in Computer Science & Engineering  
+- 🛠️ Interning at **Thunderstrike Quant Research LLP** - building low-latency trading infra using **C++, Redis, MySQL, Lua scripts**, and **automation with bash & CRON jobs**  
+- 🌐 Skilled in **full-stack development** with **React, Node.js, MongoDB, Express**, and **REST APIs**  
+- ⚙️ Strong foundation in **C++, multithreading, system programming, STL, Boost, FIX protocol, lock-free programming**  
+- 🚀 Passionate about **competitive programming** and have ranked in top 1% on **Geeksforgeeks** and top 7% on **Leetcode**   
+- 📫 Reach me at **work.himanshu489@gmail.com**
 
-<a href="http://www.github.com/himanshug9119"><img src="https://github-readme-stats.vercel.app/api?username=himanshug9119&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="himanshug9119's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/himanshug9119"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshug9119&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🧰 Tech Stack & Tools
 
-<a href="http://www.github.com/himanshug9119"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=himanshug9119&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Languages:**  
+C++, Python, Java, JavaScript, Bash, Lua
 
-<a href="https://github.com/himanshug9119" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshug9119&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Backend & Infrastructure:**  
+Node.js, Express, Redis, MySQL, MongoDB, FIX protocol, Linux (Ubuntu), Shell Scripting, CRON jobs, GDB, Makefiles
 
-<b>Top Repositories</b>
+**Frontend:**  
+React, Redux, HTML5, CSS3, Bootstrap, Tailwind
 
-<div width="100%" align="center"><a href="https://github.com/himanshug9119/mern-estate" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshug9119&repo=mern-estate&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/himanshug9119/quickpoll" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshug9119&repo=quickpoll&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+**Dev Tools & Libraries:**  
+Git, GitHub, Boost, STL, GDB, Docker (basic), Postman
 
-![snake gif](https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake-dark.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFFFalign=center&lines=Thank+you+for+taking+the+time;to+visit+my+Git-Hub+profile.;Your+interest+is+truly;appreciated!.)](https://git.io/typing-svg)
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-himanshug9119-blue?logo=linkedin)](https://linkedin.com/in/himanshug9119)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-himanshug9119-orange?logo=leetcode)](https://leetcode.com/himanshug9119)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-himanshug9119-blue?logo=codeforces)](https://codeforces.com/profile/himanshug9119)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-himanshu_9119-black?logo=codechef)](https://www.codechef.com/users/himanshu_9119)  
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-himanshug9119-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/himanshug9119)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshug9119&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔝 Top Repositories
+
+<a href="https://github.com/himanshug9119/mern-estate">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshug9119&repo=mern-estate&theme=tokyonight" />
+</a>
+<a href="https://github.com/himanshug9119/quickpoll">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshug9119&repo=quickpoll&theme=tokyonight" />
+</a>
+
+<br/><br/><br/><br/><br/>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&lines=HimaThank+you+for+visiting+my+profile!" alt="Typing SVG" />
+</p>
